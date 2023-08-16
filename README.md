@@ -2,7 +2,7 @@
  * @Author: chence antonio.chan.cc@outlook.com
  * @Date: 2023-08-16 15:00:51
  * @LastEditors: chence antonio.chan.cc@outlook.com
- * @LastEditTime: 2023-08-16 16:02:50
+ * @LastEditTime: 2023-08-16 16:06:06
  * @FilePath: /chence17/README.md
  * @Description: GitHub Profile
 -->
@@ -17,7 +17,7 @@
 
 # 🧑‍🎓 About Myself
 
-- 🔭 I’m currently working on <u>generative models</u>, <u>computer vision(2D/3D)</u>, <u>deep learning</u>.
+- 🔭 I’m currently working on **generative models**, **computer vision(2D/3D)**, **deep learning**.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
