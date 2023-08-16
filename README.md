@@ -17,7 +17,7 @@
 
 # 🧑‍🎓 About Myself
 
-- 🔭 I’m currently working on **<u>generative models</u>**, **<u>computer vision(2D/3D)</u>**, **<u>deep learning</u>**.
+- 🔭 I’m currently working on <u>generative models</u>, <u>computer vision(2D/3D)</u>, <u>deep learning</u>.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
