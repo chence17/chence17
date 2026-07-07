@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I am currently a Ph.D. student at the [School of Mathematics and Statistics, University of Melbourne](https://www.unimelb.edu.au/), supervised by [Prof. Mingming Gong (宫明明)](https://mingming-gong.github.io/). Meanwhile, I work as an AI Research Intern at [HeyGen](https://www.heygen.com) <img src='https://raw.githubusercontent.com/chence17/chence17/main/images/heygen-logo.png' style="width: 4em;">, Singapore, mentored by [Mr. Yi Ren (任意)](https://rayeren.github.io/) and [Mr. Zhibin Hong (洪智滨)](https://openreview.net/profile?id=~Zhibin_Hong1).
+I am currently a Ph.D. student at the [School of Mathematics and Statistics, University of Melbourne](https://www.unimelb.edu.au/), supervised by [Prof. Mingming Gong (宫明明)](https://mingming-gong.github.io/). Meanwhile, I work as an AI Research Intern at [HeyGen](https://www.heygen.com) <img src='https://raw.githubusercontent.com/chence17/chence17/main/images/heygen_logo.svg' style="width: 4em;">, Singapore, mentored by [Mr. Yi Ren (任意)](https://rayeren.github.io/) and [Mr. Zhibin Hong (洪智滨)](https://openreview.net/profile?id=~Zhibin_Hong1).
 
 I received my M.Phil. degree from [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/) in 2023, supervised by [Prof. Xiaoguang Han (韩晓光)](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en), and my B.Eng. degree from [Tsinghua University](https://www.tsinghua.edu.cn/) in 2021, supervised by [Prof. Yipeng Li (李一鹏)](https://www.au.tsinghua.edu.cn/info/1080/3167.htm).
 
